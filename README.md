@@ -37,11 +37,12 @@ coffee_to_code_ratio: "1:∞"
 
 ### 🎯 What I Do
 
+☁️ **Cloud Architecture** | Designing scalable, secure, and resilient cloud-native systems  
 🔬 **Research & Innovation** | Building next-gen AI models and security frameworks  
 🌐 **Full-Stack Development** | From responsive UIs to scalable backend architectures  
 🛡️ **Cybersecurity** | Protecting digital assets and hunting vulnerabilities  
 🚀 **Space Tech** | Contributing to the final frontier through code  
-⛓️ **Blockchain** | Decentralizing the world with smart contracts  
+⛓️ **Blockchain** | Decentralizing the world with smart contracts
 
 </div>
 
@@ -50,14 +51,15 @@ coffee_to_code_ratio: "1:∞"
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-
+  
 ### 💻 Core Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ### 🎨 Cross-Platform
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
