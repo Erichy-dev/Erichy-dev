@@ -23,12 +23,11 @@
 
 ```yaml
 name: "Eric Nyaga"
-role: "Senior Full-Stack Engineer"
+role: "Cloud Architecture & DevOps"
 specializations: 
   - "AI/ML Research & Development"
   - "Cybersecurity & Threat Analysis" 
   - "Blockchain & DeFi Solutions"
-  - "Cloud Architecture & DevOps"
   - "Space Technology Applications"
 current_focus: "Building the future, one commit at a time"
 coffee_to_code_ratio: "1:∞"
