@@ -11,7 +11,7 @@
 ╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝    ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Cloud+Architect+%7C+Space+Tech+Enthusiast;Full-Stack+Engineer+%7C+AI%2FML+Researcher;Cybersecurity+Specialist+%7C+Blockchain+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Cloud+Architect+%7C+Space+Tech+Enthusiast;Blockchain+Dev+%7C+Cybersecurity+Specialist;AI%2FML+Researcher+%7C+Full-Stack+Engineer)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
