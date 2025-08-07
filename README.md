@@ -11,7 +11,7 @@
 ╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝    ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=Cloud+Architect;Blockchain+Dev+%7C+Cybersecurity+Specialist;Space+Tech+Enthusiast;AI%2FML+Researcher;Full-Stack+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Cloud+Architect+%7C+Blockchain+Dev;Cybersecurity+Specialist+%7C+Space+Tech+Enthusiast;AI%2FML+Researcher+%7C+Full-Stack+Engineer)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
@@ -26,9 +26,9 @@ name: "Eric Nyaga"
 role: "Cloud Architect & DevOps Engineer"
 specializations: 
   - "Blockchain & DeFi Solutions"
+  - "AI/ML Research & Development"
   - "Cybersecurity & Threat Analysis" 
   - "Space Technology Applications"
-  - "AI/ML Research & Development"
 current_focus: "Building the future, one commit at a time"
 coffee_to_code_ratio: "1:∞"
 ```
@@ -39,9 +39,9 @@ coffee_to_code_ratio: "1:∞"
 
 ☁️ **Cloud Architecture** | Designing scalable, secure, and resilient cloud-native systems  
 ⛓️ **Blockchain** | Decentralizing the world with smart contracts  
+🔬 **Research & Innovation** | Building next-gen AI models and security frameworks  
 🛡️ **Cybersecurity** | Protecting digital assets and hunting vulnerabilities  
 🚀 **Space Tech** | Contributing to the final frontier through code  
-🔬 **Research & Innovation** | Building next-gen AI models and security frameworks  
 🌐 **Full-Stack Development** | From responsive UIs to scalable backend architectures  
 </div>
 
